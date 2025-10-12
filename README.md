@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Krishivag
 - 👀 I’m interested in coding and Cyber Security
-- 🌱 I’m currently learning Front-end Development
+- 🌱 I’m currently learning Front-end and Back-end Development
 - 💞️ I’m looking to collaborate on new projects
 - 📫 How to reach me
   agarwalkrishiv06@gmail.com
