@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,10:161b22,30:1a1e2e,50:6366f1,70:8b5cf6,100:ec4899&height=220&section=header&text=&fontSize=0&animation=twinkling" />
 
 <!-- GLITCH-STYLE NAME -->
-<a href="https://github.com/Krishivag">
+<a href="https://github.com/Krirox">
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=40&duration=3000&pause=500&color=C084FC&center=true&vCenter=true&repeat=true&width=900&height=60&lines=KRISHIVAG" alt="Krishivag" />
 </a>
 
@@ -33,7 +33,7 @@
 ### 🧬 `> Who am I`
 
 ```js
-const krishivag = {
+const krirox = {
   pronouns: "he/him",
   location: "India 🇮🇳",
   roles: [
@@ -46,7 +46,7 @@ const krishivag = {
   mission: "Building secure, scalable, and user-centric applications that matters!",
   current: {
     building: ["MilestoneNest", "EliteFolks"],
-    learning: ["Node.js", "React", "Cyber Security"],
+    learning: ["C++", "Go", "Cyber Security"],
     exploring: "Cloud Native Systems"
   },
   askMeAbout: [
@@ -315,7 +315,7 @@ const krishivag = {
 <table>
 <tr>
 <td width="33%" valign="top">
-<h3><a href="https://github.com/Krishivag/EliteFolks">🎓 EliteFolks</a></h3>
+<h3><a href="https://github.com/Krirox/EliteFolks">🎓 EliteFolks</a></h3>
 <p>Building the next generation developer community with collaborative learning and real-world projects.</p>
 <p>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
@@ -323,7 +323,7 @@ const krishivag = {
 </p>
 </td>
 <td width="33%" valign="top">
-<h3><a href="https://github.com/Krishivag/MilestoneNest">🏆 MilestoneNest</a></h3>
+<h3><a href="https://github.com/Krirox/MilestoneNest">🏆 MilestoneNest</a></h3>
 <p>Premium project management app with AI-powered task tracking and real-time collaboration.</p>
 <p>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
@@ -331,7 +331,7 @@ const krishivag = {
 </p>
 </td>
 <td width="33%" valign="top">
-<h3><a href="https://github.com/Krishivag/Email-sender">📧 Email Sender</a></h3>
+<h3><a href="https://github.com/Krirox/Email-sender">📧 Email Sender</a></h3>
 <p>Automated bulk email sending utility built with Python for high-throughput messaging.</p>
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -433,7 +433,7 @@ const krishivag = {
 <a href="https://www.linkedin.com" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://github.com/Krishivag" target="_blank">
+<a href="https://github.com/Krirox" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://x.com" target="_blank">
