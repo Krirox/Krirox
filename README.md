@@ -65,7 +65,7 @@ const krirox = {
 ```yaml
 🔥 NOW:
   project: EliteFolks
-  status: "Building & Refining"
+  status: "www.elitefolks.com"
   
 📡 LEARNING:
   - Advanced React Patterns
