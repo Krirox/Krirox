@@ -5,7 +5,7 @@
 
 <!-- GLITCH-STYLE NAME -->
 <a href="https://github.com/Krirox">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=40&duration=3000&pause=500&color=C084FC&center=true&vCenter=true&repeat=true&width=900&height=60&lines=KRISHIVAG" alt="Krishivag" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=40&duration=3000&pause=500&color=C084FC&center=true&vCenter=true&repeat=true&width=900&height=60&lines=KRIROX" alt="Krishivag" />
 </a>
 
 <br/>
