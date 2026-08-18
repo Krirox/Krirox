@@ -199,8 +199,8 @@ const krirox = {
 
 <!-- STATS - using reliable shields.io badges instead of rate-limited vercel apps -->
 <p>
-<img src="https://img.shields.io/badge/Total_Contributions-39-c084fc?style=for-the-badge&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Repositories-5+-8b5cf6?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Total_Contributions-150+-c084fc?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Repositories-25+-8b5cf6?style=for-the-badge&labelColor=0d1117" />
 </p>
 
 <br/>
